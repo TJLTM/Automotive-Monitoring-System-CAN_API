@@ -1,0 +1,5 @@
+Error Code,Meaning,AutoReset
+0x01,Unsupported Command,TRUE
+0x02,Invalid Parameter,TRUE
+0x03,Parameter Out of Range,TRUE
+0x04,Sensor Read Error,TRUE
